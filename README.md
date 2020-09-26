@@ -1,2 +1,3 @@
 # Graphics-Scenery-cpp
-A small C++ graphics library project in which various objects are created with animations representing a beautiful environment.
+A small C++ graphics library program in which a beautiful environment is created with different objects and their animations.
+Airplanes, boats, mountains and road are added.
